@@ -1,1 +1,2 @@
 function(name)
+system.out.ln();
